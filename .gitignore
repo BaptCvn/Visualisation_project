@@ -193,5 +193,11 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+
+
+.ipynb_checkpoints
+altair-data-*.json
+
+
 .env_data_viz/
 .DS_Store
