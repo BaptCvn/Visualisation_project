@@ -194,3 +194,4 @@ cython_debug/
 .cursorindexingignore
 
 .env_data_viz/
+.DS_Store
