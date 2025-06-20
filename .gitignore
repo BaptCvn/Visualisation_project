@@ -200,3 +200,4 @@ altair-data-*.json
 
 
 .env_data_viz/
+.DS_Store
